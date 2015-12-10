@@ -1,3 +1,0 @@
-import io.zensend.*;
-
-Client client = new Client("rrhxL4zAtaDq6RDqDpZC1A");
